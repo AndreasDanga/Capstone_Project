@@ -12,6 +12,17 @@ The approach involves gathering data on ESG and traditional investments, and usi
 - [msci.com/esg-research](https://www.msci.com/esg-research)
 - [sustainalytics.com](https://www.sustainalytics.com/)
 - [morningstar.com](https://www.morningstar.com/)
+- [MSCI ESG Fundamentals](https://www.msci.com/esg-fundamentals)
+- [S&P Global ESG Scores](https://www.spglobal.com/esg/scores)
+- [ISS ESG](https://www.issgovernance.com/esg/)
+- [RobecoSAM](https://www.robecosam.com/csa/robecosam/esg/)
+- [Refinitiv ESG](https://www.refinitiv.com/en/sustainable-finance/esg-research)
+
+## Data Sources for sentiment analysis
+
+- [Financial Sentiment Analysis for Tesla](https://www.kaggle.com/maheepgupta/financial-sentiment-analysis-for-tesla)
+- [Sentiment Analysis of Oil & Gas Companies](https://www.kaggle.com/imrandude/sentiment-analysis-of-oil-gas-companies)
+
 
 ## Tools and Libraries
 - Tableau
