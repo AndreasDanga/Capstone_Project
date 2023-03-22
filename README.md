@@ -20,9 +20,9 @@ The approach involves gathering data on ESG and traditional investments, and usi
 
 ## Data Sources for sentiment analysis
 
-- [Financial Sentiment Analysis for Tesla](https://www.kaggle.com/maheepgupta/financial-sentiment-analysis-for-tesla)
+- [Financial Sentiment Analysis for Tesla](https://www.kaggle.com/code/mmmarchetti/sentiment-analysis-on-financial-news)
 - [Sentiment Analysis of Oil & Gas Companies](https://www.kaggle.com/imrandude/sentiment-analysis-of-oil-gas-companies)
-
+- [Tweets Tesla](https://www.kaggle.com/code/alexhuggler/elonmusk-twitter-sentiment-w-roberta)
 
 ## Tools and Libraries
 - Tableau
