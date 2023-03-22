@@ -46,3 +46,4 @@ The approach involves gathering data on ESG and traditional investments, and usi
 
 ## Conclusion
 This capstone project will provide valuable insights into the development and perception of ESG investments over time. By using machine learning algorithms, the project aims to predict the effect of certain decisions on the ESG score of a company, which can be useful for investors and financial institutions.
+
